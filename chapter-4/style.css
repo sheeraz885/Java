@@ -1,0 +1,26 @@
+h4{
+    font-size: 24px;
+    text-transform: capitalize;
+    margin-left: 2rem;
+    border-bottom: 2px solid green;
+}
+
+h5,#h5{
+    font-size: 22px;
+    margin-left: 2rem;
+}
+p{
+    font-size: 20px;
+   font-weight: 500;
+}
+
+li{
+    font-size: 18px;
+    margin-left: 3rem;
+    line-height: 2rem;
+    
+}
+hr{
+   color: green;
+}
+ 
